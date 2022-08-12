@@ -14,3 +14,5 @@ hooks:
 
   ApplicationStart:
     - location: Scripts/run_process.sh
+    
+    1
