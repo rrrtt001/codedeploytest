@@ -14,6 +14,7 @@ hooks:
 
   ApplicationStart:
     - location: Scripts/run_process.sh
+      runas: codedeployuser
     
     
    
