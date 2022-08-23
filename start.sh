@@ -1,2 +1,2 @@
 #! /bin/bash
-pwd>/home/ubuntu/location
+pwd>/home/ec2-user
