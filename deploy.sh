@@ -24,3 +24,4 @@ DEPLOY_JAR=$DEPLOY_PATH$JAR_NAME
 echo ">>> DEPLOY_JAR 배포"    >> /home/ubuntu/deploy.log
 nohup java -jar $DEPLOY_JAR >> /home/ubuntu/deploy.log 2>/home/ec2-user/deploy_err.log &
 
+
