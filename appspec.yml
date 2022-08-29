@@ -17,7 +17,7 @@ files:
 #      runas: codedeployuser
  
   ApplicationStart:
-    - location: /start.sh
+    - location: Scripts/start.sh
       runas: codedeployuser
       
 
